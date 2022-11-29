@@ -4,7 +4,7 @@ Github supports embedding code snippets in Github issues by using the permalink 
 
 Copy the permalink from a file and paste it into an issue.
 
-<img src="copy-permalink.html" />
+![image](https://user-images.githubusercontent.com/22266/204457453-6d407eee-e486-4e50-85c6-7d307f8a4c94.png)
 
 This renders a nice code snippet in the issue:
 
