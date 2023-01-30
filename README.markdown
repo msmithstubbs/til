@@ -12,3 +12,6 @@ My Today I Learned snippets. Inspired by [simonw/til](https://github.com/simonw/
 
 ## git
 * [Search git history for a commit that adds or removes a string](https://github.com/msmithstubbs/til/blob/main/search-git-history-for-a-commit-that-adds-or-removes-a-string.markdown)
+
+## next.js
+* [Deploy a next.js site to Cloudflare pages](nextjs/deploy-a-nextjs-site-to-cloudflare-pages.markdown)
