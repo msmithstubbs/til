@@ -4,6 +4,7 @@ My Today I Learned snippets. Inspired by [simonw/til](https://github.com/simonw/
 
 ## elixir
 
+* [How to add `cascade delete` to an existing constraint](elixir/how-to-add-cascade-delete-to-an-existing-constraint.md)
 * [Jason.deocde/2 with keys as as atoms](elixir/jason-decode-with-keys-as-atoms.md)
 
 ## github
