@@ -6,6 +6,7 @@ My Today I Learned snippets. Inspired by [simonw/til](https://github.com/simonw/
 
 * [How to add `cascade delete` to an existing constraint](elixir/how-to-add-cascade-delete-to-an-existing-constraint.md)
 * [Jason.deocde/2 with keys as as atoms](elixir/jason-decode-with-keys-as-atoms.md)
+* [Use Oban.Testing.perform_job to test jobs](elixir/use-oban-testing-perform-job-to-test-jobs.md)
 
 ## github
 
