@@ -17,3 +17,6 @@ My Today I Learned snippets. Inspired by [simonw/til](https://github.com/simonw/
 
 ## next.js
 * [Deploy a next.js site to Cloudflare pages](nextjs/deploy-a-nextjs-site-to-cloudflare-pages.markdown)
+
+## llm
+[Using llama.cpp and Llama2 with GPU on M1](llm/using-llama.cpp-and-llama2-with-gpu-on-m1.markdown)
