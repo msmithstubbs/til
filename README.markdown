@@ -2,6 +2,10 @@
 
 My Today I Learned snippets. Inspired by [simonw/til](https://github.com/simonw/til)
 
+## alpinejs
+
+* [Everything in AlpineJS requires an x-data directive](alpinejs/x-on-needs-x-bind-in-alpinejs.markdown)
+
 ## elixir
 
 * [How to add `cascade delete` to an existing constraint](elixir/how-to-add-cascade-delete-to-an-existing-constraint.md)
