@@ -25,6 +25,7 @@ My Today I Learned snippets. Inspired by [simonw/til](https://github.com/simonw/
 
 ## llm
 * [Using llama.cpp and Llama2 with GPU on M1](llm/using-llama.cpp-and-llama2-with-gpu-on-m1.markdown)
+* [Configure llm to query Groq from the command line](llm/using-groq-with-llm.markdown)
 
 ## zsh
 * [Set and clear colours in a zsh prompt](zsh/set-and-clear-colours-in-a-zsh-prompt.markdown)
